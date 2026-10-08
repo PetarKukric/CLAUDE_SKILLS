@@ -1,0 +1,1 @@
+Napravi prompt za Claude da mi napravi video za drustvene mreze reels i TikTok koristeci SFX iz [lokacija SFX foldera], pozadinsku muziku iz [lokacija Muzika foldera] i slike i videe [lokacija]. Moraju biti kompleksne tranzicije i animacije, bez da elementi nestanu odjednom sa ekrana, nagli cut-ovi i tako to. [Opises sta je poenta videa i neke informacije ako trebaju]. 
