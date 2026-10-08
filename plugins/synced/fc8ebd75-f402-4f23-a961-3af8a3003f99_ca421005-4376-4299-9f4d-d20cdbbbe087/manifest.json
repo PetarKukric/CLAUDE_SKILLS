@@ -1,0 +1,14 @@
+{
+  "lastUpdated": 1790799063506,
+  "plugins": [
+    {
+      "pluginId": "plugin_01Sh1KKRHXpHQJEP9yogaxv5",
+      "name": "taste-skill",
+      "description": "Frontend design taste skills including brutalist, minimalist, soft, redesign, stitch, and more",
+      "version": "0001",
+      "updatedAt": "2026-09-27T19:29:58.113727Z",
+      "marketplaceName": "taste-skill",
+      "installationPreference": "available"
+    }
+  ]
+}

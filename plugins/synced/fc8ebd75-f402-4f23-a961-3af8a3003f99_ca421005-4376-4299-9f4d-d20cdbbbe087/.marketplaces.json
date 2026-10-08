@@ -1,0 +1,75 @@
+{
+  "etag": "W/\"2aaagxeRdVzMMLFfB-3CbGNPuelFPdHAyBx0mEZQZOo\"",
+  "rows": [
+    {
+      "name": "claude-mem",
+      "scope": "account",
+      "source": {
+        "source": "github",
+        "repo": "thedotmack/claude-mem"
+      },
+      "id": "marketplace_01H9TgFHqgSiPnvUSHrHD9VZ",
+      "updated_at": "2026-10-06T17:31:30.706431Z"
+    },
+    {
+      "name": "headroom",
+      "scope": "account",
+      "source": {
+        "source": "github",
+        "repo": "headroomlabs-ai/headroom"
+      },
+      "id": "marketplace_014DXvGs3Xz4sstmcpRXGTWS",
+      "updated_at": "2026-09-27T19:01:37.040036Z"
+    },
+    {
+      "name": "impeccable",
+      "scope": "account",
+      "source": {
+        "source": "github",
+        "repo": "pbakaus/impeccable"
+      },
+      "id": "marketplace_014yZZR5r3CJZTE2GLxqYBvy",
+      "updated_at": "2026-10-07T06:50:19.688305Z"
+    },
+    {
+      "name": "My Uploads",
+      "scope": "account",
+      "source": {
+        "source": "claudeai"
+      },
+      "id": "marketplace_01DCuC75itA1fXmk1kQ8bbqV",
+      "updated_at": "2026-09-30T21:46:18.218526Z"
+    },
+    {
+      "name": "taste-skill",
+      "scope": "account",
+      "source": {
+        "source": "github",
+        "repo": "leonxlnx/taste-skill"
+      },
+      "id": "marketplace_016Sdi6KYPet9xtzu5xbbkFn",
+      "updated_at": "2026-09-27T19:30:00.820438Z"
+    },
+    {
+      "name": "ui-ux-pro-max-skill",
+      "scope": "account",
+      "source": {
+        "source": "github",
+        "repo": "nextlevelbuilder/ui-ux-pro-max-skill"
+      },
+      "id": "marketplace_01YYTSmwXAXQM4ed9YbJymVh",
+      "updated_at": "2026-10-03T16:19:43.338051Z"
+    },
+    {
+      "name": "anthropic-plugin-directory",
+      "display_name": "Anthropic Directory",
+      "scope": "default",
+      "source": {
+        "source": "claudeai"
+      },
+      "id": "marketplace_01VNB7JgJyYTuJiDfXSABKm3",
+      "updated_at": "2026-10-07T15:26:51.701594Z"
+    }
+  ],
+  "parserVersion": 1002
+}

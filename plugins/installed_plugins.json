@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "plugins": {
+    "claude-mem@thedotmack": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Vladan\\.claude\\plugins\\cache\\thedotmack\\claude-mem\\13.28.0",
+        "version": "13.28.0",
+        "installedAt": "2026-09-30T18:41:23.920Z",
+        "lastUpdated": "2026-09-30T18:41:23.920Z",
+        "gitCommitSha": "a077975ebd41643902f53e538e9bdf36c8367a0a"
+      }
+    ],
+    "taste-skill@taste-skill": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Vladan\\.claude\\plugins\\cache\\taste-skill\\taste-skill\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-09-30T18:42:27.527Z",
+        "lastUpdated": "2026-09-30T18:42:27.527Z",
+        "gitCommitSha": "ce26fc25c0e5e8cab638f883de62d9a86ee5e45b"
+      }
+    ],
+    "impeccable@impeccable": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Vladan\\.claude\\plugins\\cache\\impeccable\\impeccable\\4.4.0",
+        "version": "4.4.0",
+        "installedAt": "2026-09-30T18:47:43.898Z",
+        "lastUpdated": "2026-09-30T18:47:43.898Z",
+        "gitCommitSha": "f652bd42341c4269cf281d0f569bfc9808e1fdab"
+      }
+    ],
+    "superpowers@superpowers-dev": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Vladan\\.claude\\plugins\\cache\\superpowers-dev\\superpowers\\6.4.2",
+        "version": "6.4.2",
+        "installedAt": "2026-10-01T05:27:07.648Z",
+        "lastUpdated": "2026-10-01T05:27:07.648Z",
+        "gitCommitSha": "8ca22dba9a94f28898bbce59f2537ff4d87c747d"
+      }
+    ],
+    "caveman@caveman": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Vladan\\.claude\\plugins\\cache\\caveman\\caveman\\3.0.0",
+        "version": "3.0.0",
+        "installedAt": "2026-10-01T05:29:48.219Z",
+        "lastUpdated": "2026-10-01T05:29:48.219Z",
+        "gitCommitSha": "f5d729488caa8f6a5b6c8086fe2cccd3e8a63f91"
+      }
+    ],
+    "social-media-skills@social-media-skills": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Vladan\\.claude\\plugins\\cache\\social-media-skills\\social-media-skills\\1.1.0",
+        "version": "1.1.0",
+        "installedAt": "2026-10-01T05:39:17.107Z",
+        "lastUpdated": "2026-10-01T05:39:17.107Z",
+        "gitCommitSha": "8cefb5b6d03757885faa6918bd8bfaef202a83db"
+      }
+    ],
+    "marketing-skills@marketingskills": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Vladan\\.claude\\plugins\\cache\\marketingskills\\marketing-skills\\2.11.1",
+        "version": "2.11.1",
+        "installedAt": "2026-10-01T05:39:27.896Z",
+        "lastUpdated": "2026-10-01T05:39:27.896Z",
+        "gitCommitSha": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022"
+      }
+    ]
+  }
+}

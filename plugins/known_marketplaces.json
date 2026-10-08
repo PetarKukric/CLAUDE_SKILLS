@@ -1,0 +1,82 @@
+{
+  "thedotmack": {
+    "source": {
+      "source": "github",
+      "repo": "thedotmack/claude-mem"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\thedotmack",
+    "lastUpdated": "2026-09-30T18:41:21.775Z"
+  },
+  "taste-skill": {
+    "source": {
+      "source": "github",
+      "repo": "leonxlnx/taste-skill"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\taste-skill",
+    "lastUpdated": "2026-09-30T18:42:25.585Z"
+  },
+  "impeccable": {
+    "source": {
+      "source": "github",
+      "repo": "pbakaus/impeccable"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\impeccable",
+    "lastUpdated": "2026-09-30T18:47:41.791Z"
+  },
+  "addy-agent-skills": {
+    "source": {
+      "source": "git",
+      "url": "https://github.com/addyosmani/agent-skills.git"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\addy-agent-skills",
+    "lastUpdated": "2026-09-30T19:01:35.701Z"
+  },
+  "claude-plugins-official": {
+    "source": {
+      "source": "git",
+      "url": "https://github.com/anthropics/claude-plugins-official.git"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-10-07T15:37:12.259Z"
+  },
+  "superpowers-dev": {
+    "source": {
+      "source": "git",
+      "url": "https://github.com/obra/superpowers.git"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\superpowers-dev",
+    "lastUpdated": "2026-10-01T05:26:58.834Z"
+  },
+  "caveman": {
+    "source": {
+      "source": "git",
+      "url": "https://github.com/JuliusBrussee/caveman.git"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\caveman",
+    "lastUpdated": "2026-10-01T05:29:36.012Z"
+  },
+  "social-media-skills": {
+    "source": {
+      "source": "github",
+      "repo": "charlie947/social-media-skills"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\social-media-skills",
+    "lastUpdated": "2026-10-01T05:39:14.830Z"
+  },
+  "marketingskills": {
+    "source": {
+      "source": "github",
+      "repo": "coreyhaines31/marketingskills"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\marketingskills",
+    "lastUpdated": "2026-10-01T05:39:24.137Z"
+  },
+  "local-desktop-app-uploads": {
+    "source": {
+      "source": "directory",
+      "path": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\local-desktop-app-uploads"
+    },
+    "installLocation": "C:\\Users\\Vladan\\.claude\\plugins\\marketplaces\\local-desktop-app-uploads",
+    "lastUpdated": "2026-10-01T21:27:23.062Z"
+  }
+}

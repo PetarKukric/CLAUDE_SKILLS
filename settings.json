@@ -1,0 +1,70 @@
+{
+  "model": "opus",
+  "enabledPlugins": {
+    "claude-mem@thedotmack": true,
+    "taste-skill@taste-skill": true,
+    "impeccable@impeccable": true,
+    "superpowers@superpowers-dev": true,
+    "caveman@caveman": true,
+    "social-media-skills@social-media-skills": true,
+    "marketing-skills@marketingskills": true
+  },
+  "extraKnownMarketplaces": {
+    "thedotmack": {
+      "source": {
+        "source": "github",
+        "repo": "thedotmack/claude-mem"
+      }
+    },
+    "taste-skill": {
+      "source": {
+        "source": "github",
+        "repo": "leonxlnx/taste-skill"
+      }
+    },
+    "impeccable": {
+      "source": {
+        "source": "github",
+        "repo": "pbakaus/impeccable"
+      }
+    },
+    "addy-agent-skills": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/addyosmani/agent-skills.git"
+      }
+    },
+    "claude-plugins-official": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/anthropics/claude-plugins-official.git"
+      }
+    },
+    "superpowers-dev": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/obra/superpowers.git"
+      }
+    },
+    "caveman": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/JuliusBrussee/caveman.git"
+      }
+    },
+    "social-media-skills": {
+      "source": {
+        "source": "github",
+        "repo": "charlie947/social-media-skills"
+      }
+    },
+    "marketingskills": {
+      "source": {
+        "source": "github",
+        "repo": "coreyhaines31/marketingskills"
+      }
+    }
+  },
+  "autoUpdatesChannel": "latest",
+  "theme": "dark"
+}
